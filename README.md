@@ -19,7 +19,7 @@ I worked on the project from a **Business Analyst + Product Management + Project
 • Built and tested the working website
 • Iterated based on the client's requirements
 
-### 🛠️ Tools & Approach
+### 🛠️ Tools & Approach:
 
 **Lovable | Product Thinking | Requirement Gathering | User Flow | MVP | Testing | Project Planning**
 
