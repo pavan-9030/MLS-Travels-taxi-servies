@@ -27,7 +27,7 @@ The website allows the owner to manage information and post duty-related updates
 
 🔗 **Live Project:** https://mlstravel.lovable.app/
 
-### 💡 What I learned
+### 💡 What I learned:
 
 This project helped me understand that building a product is not just about creating screens or writing code.
 
@@ -35,4 +35,4 @@ It starts with understanding the **business problem → requirements → users �
 
 This experience has strengthened my interest in **Product Management, Project Management, and Business Analysis**.
 
-#ProductManagement #ProjectManagement #BusinessAnalyst #BusinessAnalysis #ProductManagement #MVP #RequirementGathering #ProjectManagement #ClientProject #Lovable #ProductDevelopment
+#ProductManagement #ProjectManagement #BusinessAnalyst #BusinessAnalysis #ProductManagement #MVP #RequirementGathering #ProjectManagement #ClientProject #Lovable #ProductDevelopment.
